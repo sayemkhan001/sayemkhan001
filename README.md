@@ -1,114 +1,105 @@
-# Hi, I'm Sayem Khan 👋
+# 👋 Hi, I'm Sayem Khan
 
-### 💻 Software Engineering Student | 
+### 💻 Software Engineering Student | Frontend Developer
 
-I'm a Software Engineering student currently focused on **JavaScript and Frontend Development**.
+I'm a Software Engineering student passionate about **Web Development** and **JavaScript**.
 
-I enjoy building projects, learning new technologies, and improving my problem-solving skills through practice.
-
----
-
-## 🚀 Currently Learning
-
-* JavaScript
-* DOM & Events
-* ES6+
-* APIs & Async JavaScript
-* Git & GitHub
-* React.js
+I enjoy learning by building projects and continuously improving my problem-solving skills.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-**Frontend**
-
-* HTML5
-* CSS3
-* JavaScript
-* React.js
-
-**Tools**
-
-* Git
-* GitHub
-* VS Code
+* 🎓 Software Engineering Student
+* 💻 Currently focused on **JavaScript & Frontend Development**
+* 🌱 Learning **React.js**
+* 🔨 Building projects to improve my skills
+* 🎯 Goal: Become a professional **Frontend Developer**
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Technologies & Tools
 
-### 🎨 Random Color Generator
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
 
-A JavaScript project that generates random HEX colors.
+### Currently Learning
 
-### ✅ To-Do List
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs" />
+</p>
 
-A simple To-Do List built with JavaScript and DOM manipulation.
+---
 
-### 🔎 Post Search App
+## 📂 Featured Projects
 
-A JavaScript API project using JSONPlaceholder to search and display posts.
-
-### 🌦️ Weather App
-
-A weather application built while practicing API integration and JavaScript.
+| Project                       | Description                                  |
+| ----------------------------- | -------------------------------------------- |
+| 🎨 **Random Color Generator** | Generates random HEX colors using JavaScript |
+| ✅ **To-Do List**              | Simple task management app using JavaScript  |
+| 🔎 **Post Search App**        | Search and display posts using an API        |
+| 🌦️ **Weather App**           | Weather application using API integration    |
 
 ---
 
 ## 📚 My Learning Journey
 
 ```text
-HTML
-  ↓
-CSS
-  ↓
+HTML & CSS
+     ↓
 JavaScript
-  ↓
+     ↓
 DOM & Events
-  ↓
+     ↓
 ES6+
-  ↓
-APIs
-  ↓
+     ↓
+APIs & Async JavaScript
+     ↓
 Git & GitHub
-  ↓
-React
-  ↓
+     ↓
+React.js
+     ↓
+Node.js
+     ↓
 MERN Stack
 ```
 
 ---
 
-## 🎯 Goals
+## 🎯 2026 Goals
 
-* Build real-world web projects
-* Become a strong Frontend Developer
-* Improve problem-solving skills
-* Learn React and modern frontend development
+* 🚀 Build more real-world projects
+* ⚛️ Become comfortable with React.js
+* 🧠 Improve problem-solving & DSA
+* 🌐 Build a professional portfolio
+* 💼 Prepare for a Frontend Developer career
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=sayemkhan001&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayemkhan001&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-* GitHub: [@sayemkhan001](https://github.com/sayemkhan001)
+<p>
+  <a href="https://github.com/sayemkhan001">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
+**Keep Learning • Keep Building • Keep Improving 🚀**
 
-<!--
-**sayemkhan001/sayemkhan001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
