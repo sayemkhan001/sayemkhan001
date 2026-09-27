@@ -1,6 +1,6 @@
 # Hi, I'm Sayem Khan 👋
 
-### 💻 Software Engineering Student | Frontend Developer
+### 💻 Software Engineering Student | 
 
 I'm a Software Engineering student currently focused on **JavaScript and Frontend Development**.
 
@@ -86,7 +86,6 @@ MERN Stack
 * Become a strong Frontend Developer
 * Improve problem-solving skills
 * Learn React and modern frontend development
-* Build a professional developer portfolio
 
 ---
 
@@ -97,7 +96,7 @@ MERN Stack
 ---
 
 ⭐ Thanks for visiting my profile!
-## Hi there 👋
+
 
 <!--
 **sayemkhan001/sayemkhan001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
